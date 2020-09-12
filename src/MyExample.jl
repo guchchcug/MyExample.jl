@@ -1,7 +1,7 @@
 module MyExample
 
 using ForwardDiff
-greet() = print("Hello World!")
+#greet() = print("Hello World!")
 
 include("extra_file.jl")
 
