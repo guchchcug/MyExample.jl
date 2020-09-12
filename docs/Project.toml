@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+MyExample = "3bf67414-85d7-4b28-b2c9-e8efe2099cb6"
